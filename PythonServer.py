@@ -35,17 +35,17 @@ def threaded(c):
             print("Threshold reached! Alerting user...")
 
             # Your Account SID from twilio.com/console
-            account_sid = 'AC420a1f9d56eba4c4ab39c5aea9979036'
+            account_sid = #insert account sid here!
             # Your Auth Token from twilio.com/console
-            auth_token  = 'fecdb7c4c03fcc752739a4089651fafb'
+            auth_token  = #insert auth token here!
 
             client = Client(account_sid, auth_token)
 
             message = client.messages \
                             .create(
                                 body="Your hottub is primed and ready!",
-                                from_='+18604312955',
-                                to='+14134265884'
+                                from_= #insert twilio phone number here!,
+                                to= #insert whatever phone number you want here!
                             )
 
             print(message.sid)
@@ -58,11 +58,8 @@ def threaded(c):
   
 def Main(): 
     host = "" 
-  
-    # reverse a port on your computer 
-    # in our case it is 12345 but it 
-    # can be anything 
-    port = 3389
+ 
+    port = #insert port number here!
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 
     s.bind((host, port)) 
     print("socket binded to post", port) 
