@@ -4,7 +4,11 @@ We built an IoT WiFi-enabled smart pool sensor that texts you to alert you of di
 *For a detailed overview of our project check our [Visual Step-by-Step Guide!](//insert PDF link here)*
 
 # Who made this amazing Hack?
-Nigel Paine ([LinkedIn](https://www.linkedin.com/in/nigel-paine/)) - CSE '18 UMass Amherst | Jakub Polanowski ([GitLab](https://gitlab.com/JakubPol)) - Chem '20 UMass Amherst | Zenry Padua - Informatics '21 UMass Amherst
+Nigel Paine ([LinkedIn](https://www.linkedin.com/in/nigel-paine/)) - CSE '18 UMass Amherst
+
+Jakub Polanowski ([GitLab](https://gitlab.com/JakubPol)) - Chem '20 UMass Amherst
+
+Zenry Padua - Informatics '21 UMass Amherst
 
 # What inspired us to make this?
 One of our teammates' fathers owns a pool business and the idea came from observing his clients who constantly have to be aware of chemical inbalances and other features in their pool. We decided instead of having people constantly check their pools, they could just get notified directly via an IoT smart pool device that floats around the pool or hottub.
