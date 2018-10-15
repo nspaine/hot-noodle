@@ -1,5 +1,5 @@
 # hot-noodle
-We built an IoT WiFi-enabled smart pool sensor that texts you to alert you of different features (e.g. hot tub temperature)! It can float aimlessly or move around on its own with a 3D-printed propeller! Built as part of a hackathon project at HackUMass VI.
+We built an IoT WiFi-enabled smart pool sensor that texts you to alert you of different features (e.g. hot tub temperature)! It can float aimlessly or move around on its own with a 3D-printed propeller! Built as part of a hackathon project at HackUMass VI. Winner of the MLH DragonBoard competition!
 
 *For a detailed overview of our project check our [Visual Step-by-Step Guide!](https://github.com/nspaine/hot-noodle/blob/master/Visual%20Step-by-Step%20Guide.pdf)*
 
